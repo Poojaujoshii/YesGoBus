@@ -173,7 +173,7 @@ export default function Home() {
           </div>
         </div>
         <p className="mt-10 text-center text-sm text-gray-400">
-          © 2023 YesGoBus. All rights reserved. Designed with <span className="text-pink-500">♥</span>
+          © 2025 YesGoBus. All rights reserved. Designed with <span className="text-pink-500">♥</span>
         </p>
       </footer>
     </div>
